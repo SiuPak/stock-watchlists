@@ -1,0 +1,41 @@
+[
+  {
+    "id": "tech-leaders",
+    "name": "Tech Titans",
+    "symbols": [
+      "AAPL",
+      "MSFT",
+      "NVDA",
+      "GOOGL",
+      "AMZN",
+      "TSLA"
+    ],
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "market-etfs",
+    "name": "Market ETFs",
+    "symbols": [
+      "SPY",
+      "QQQ",
+      "DIA",
+      "IWM"
+    ],
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "blue-chips",
+    "name": "Blue Chip & Value",
+    "symbols": [
+      "BRK-B",
+      "JPM",
+      "V",
+      "WMT",
+      "JNJ"
+    ],
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  }
+]
