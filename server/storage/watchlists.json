@@ -37,5 +37,36 @@
     ],
     "createdAt": "2026-01-01T00:00:00.000Z",
     "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "us-stocks-mu7565bh",
+    "name": "US stocks",
+    "symbols": [
+      "AAPL",
+      "AMD",
+      "AMZN",
+      "ARM",
+      "CSGP",
+      "GFS",
+      "GOOG",
+      "HIMX",
+      "IBM",
+      "INTC",
+      "MET",
+      "MSFT",
+      "NFLX",
+      "ORCL",
+      "PLTR",
+      "QQQM",
+      "SKHY",
+      "SPCX",
+      "SQQQ",
+      "TEM",
+      "TSLA",
+      "TSM",
+      "UMC"
+    ],
+    "createdAt": "2026-09-18T15:57:08.333Z",
+    "updatedAt": "2026-09-18T16:09:11.380Z"
   }
 ]
